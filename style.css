@@ -218,6 +218,7 @@ footer {
   margin: 5% 15%;
   font-family: "Audiowide", sans-serif;
   width: 50%;
+  max-width: 50%; 
 }
 
 .container-text{
