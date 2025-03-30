@@ -1,10 +1,6 @@
 # Projeto Cassandra™
 
-<<<<<<< HEAD
 > **Quando eles codam, é sistema. Quando nós codamos, é subversão.**
-=======
-> **"Quando eles codam, é sistema. Quando nós codamos, é subversão."**
->>>>>>> 5fa5c482a3439a786d2755d66cd92c408c6e9183
 
 Boas-vindas ao **Projeto Cassandra™** – um espaço de código, pensamento e resistência. Se a tecnologia é uma ferramenta de controle, aqui nós a hackeamos para criar liberdade.
 
@@ -12,13 +8,7 @@ Boas-vindas ao **Projeto Cassandra™** – um espaço de código, pensamento e 
 
 O Cassandra™ nasceu da inquietação. Do desejo de construir, não apenas consumir. Da recusa em aceitar que código é neutro quando o mundo não é. Se você quer mais que software: quer impacto, quer ruptura, quer possibilidades… então você está no lugar certo.
 
-<<<<<<< HEAD
 > **Eu até poderia te contar, mas você não acreditaria...**
-=======
----
-Eu até poderia te contar, mas você não acreditaria...
----
->>>>>>> 5fa5c482a3439a786d2755d66cd92c408c6e9183
 
 ## 🌿 Ideais e Propósito
 
@@ -40,18 +30,9 @@ Se você acredita que tecnologia é um ato político, este projeto é para você
 
 Quer trocar uma ideia, sugerir algo ou simplesmente existir aqui com a gente?
 
-<<<<<<< HEAD
 📩 **E-mail:** cassandra.projeto@gmail.com  
 💬 **Discord:** 3my3548  //  mourassisana  
-🖤 **GitHub:** https://github.com/EmyRaislany/Projeto-Cassandra
-=======
-📩 **E-mail:**  
-cassandra.projeto@gmail.com  
-💬 **Discord:**  
-3my3548  //  mourassisana  
-🖤 **GitHub:**  
-https://github.com/EmyRaislany/Projeto-Cassandra
->>>>>>> 5fa5c482a3439a786d2755d66cd92c408c6e9183
+🖤 **GitHub:** https://github.com/Projeto-Cassandra/Projeto-Cassandra.git
 
 ## 🏴 Licença
 
@@ -66,11 +47,7 @@ Este projeto está sob a licença [MIT](LICENSE), porque conhecimento é poder, 
 
 # Cassandra™ Project
 
-<<<<<<< HEAD
 > **When they code, it's a system. When we code, it's subversion.**
-=======
-> **"When they code, it's a system. When we code, it's subversion."**
->>>>>>> 5fa5c482a3439a786d2755d66cd92c408c6e9183
 
 Welcome to **Cassandra™ Project** – a space for code, thought, and resistance. If technology is a tool for control, here we hack it to create freedom.
 
@@ -78,13 +55,7 @@ Welcome to **Cassandra™ Project** – a space for code, thought, and resistanc
 
 Cassandra™ was born from restlessness. From the desire to build, not just consume. From the refusal to accept that code is neutral when the world is not. If you want more than software—if you seek impact, disruption, and new possibilities—then you’re in the right place.
 
-<<<<<<< HEAD
 > **I could tell you, but you wouldn’t believe it…**
-=======
----
-I could tell you, but you wouldn’t believe it…
----
->>>>>>> 5fa5c482a3439a786d2755d66cd92c408c6e9183
 
 ## 🌿 Ideals & Purpose
 
@@ -106,18 +77,9 @@ If you believe technology is a political act, this project is for you. Contribut
 
 Want to share ideas, suggest something, or just be part of this space with us?
 
-<<<<<<< HEAD
 📩 **Email:** cassandra.projeto@gmail.com  
 💬 **Discord:** 3my3548  //  mourassisana  
-🖤 **GitHub:** https://github.com/EmyRaislany/Projeto-Cassandra
-=======
-📩 **Email:**  
-cassandra.projeto@gmail.com  
-💬 **Discord:**  
-3my3548  //  mourassisana  
-🖤 **GitHub:**  
-https://github.com/EmyRaislany/Projeto-Cassandra
->>>>>>> 5fa5c482a3439a786d2755d66cd92c408c6e9183
+🖤 **GitHub:** https://github.com/Projeto-Cassandra/Projeto-Cassandra.git
 
 ## 🏴 License
 
