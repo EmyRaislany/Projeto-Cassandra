@@ -87,6 +87,8 @@ body::before {
 
 .video-overlay {
     position: absolute;
+    background-size: cover;
+    background-position: center; 
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -173,13 +175,14 @@ strong {
 }
 
 footer {
+  font-family: var(--primary-font);
   z-index: 10;
   position: relative;
   bottom: 0;
   width: 100%;
   text-align: center;
   margin-top: auto;
-  font-size: 1rem;
+  font-size: 0.6rem;
   color: var(--text-color);
   padding: 10px 0;
   background-color: rgba(0, 0, 0, 0.3);
