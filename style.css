@@ -91,10 +91,13 @@ body::before {
     background-position: center; 
     top: 50%;
     left: 50%;
+    width: 100%;
     transform: translate(-50%, -50%);
     width: 100%; /* Ajuste conforme necessário */
     border-radius: 10px; /* Opcional, só para estilo */
     z-index: 2; /* Garante que ele fique acima do fundo */
+    animation: fadeInOut 6s infinite ease-in-out;
+    filter: blur(2px); /* Adiciona um leve desfoque */
   }
 
 h1 {
